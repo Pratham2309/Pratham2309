@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Pratham Bansal</h1>
+<h2>Hi 👋, I'm Pratham Bansal</h2>
 <h3 align="center">Certified coffee addict, coding between sips</h3>
 
 - 🔭 I’m currently working on **Software Development.**
