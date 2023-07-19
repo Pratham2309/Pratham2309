@@ -2,13 +2,9 @@
 <h3 align="center">Certified coffee addict, coding between sips</h3>
 
 - 🔭 I’m currently working on **Software Development.**
-
 - 🌱 I’m currently learning **Artificial Intelligence and React.**
-
 - 💬 Ask me about **React and Competitive Coding.**
-
 - 📫 How to reach me **- Send your request via carrier pigeon with impeccable coding skills.**
-
 - ⚡ Fun fact **- My code has never encountered a bug... It's just exceptionally good at hiding them.**
 
 <h3 align="left">Connect with me:</h3>
